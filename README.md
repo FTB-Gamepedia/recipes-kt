@@ -9,7 +9,7 @@ $ ruby lib/main.rb 'RECIPE CODE HERE'
 For example:
 
 ``` shell
-$ ruby lib/main.rb 'GameRegistry.addRecipe(new ShapedOreRecipe(Items.bucket, "oao", "aoa", 'o', "ingotIron", 'a', "nuggetGold"));'
+$ ruby lib/main.rb 'GameRegistry.addRecipe(new ShapedOreRecipe(Items.bucket, "oao", "aoa", \'o\', "ingotIron", \'a\', "nuggetGold"));'
 ```
 
 ## Main limitations
