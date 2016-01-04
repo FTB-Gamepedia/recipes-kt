@@ -107,7 +107,7 @@ module RecipeParsers
 
       template << '}}'
 
-      print "#{template}\nDone!\n"
+      print "#{template}\n"
     end
   end
 end
